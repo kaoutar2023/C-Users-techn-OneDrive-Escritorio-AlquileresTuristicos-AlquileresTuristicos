@@ -1,0 +1,14 @@
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.vcxproj.AssemblyReference.cache
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.Inquilinos.resources
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.Principal.resources
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.Propietarios.resources
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.Viviendas.resources
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.vcxproj.GenerateResource.cache
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.vcxproj.CopyComplete
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.exe
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\System.Data.SQLite.dll
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\System.Data.SQLite.pdb
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\System.Data.SQLite.xml
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\System.Data.SQLite.dll.config
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.Reservas.resources

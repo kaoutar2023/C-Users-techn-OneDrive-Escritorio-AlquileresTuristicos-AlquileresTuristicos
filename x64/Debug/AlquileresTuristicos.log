@@ -1,0 +1,6 @@
+﻿  AlquileresTuristicos.cpp
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\AlquileresTuristicos.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\AlquileresTuristicos.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\AlquileresTuristicos.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809105' para el encabezado precompilado pero no para la compilación actual
+  AccesoBD.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  AlquileresTuristicos.vcxproj -> C:\Users\techn\OneDrive\Escritorio\AlquileresTuristicos\AlquileresTuristicos\x64\Debug\AlquileresTuristicos.exe
